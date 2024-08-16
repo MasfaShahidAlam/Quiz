@@ -1,0 +1,7 @@
+.box{
+    max-width: 18rem;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
