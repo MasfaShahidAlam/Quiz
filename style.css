@@ -14,9 +14,9 @@
     justify-content: center;
     align-items: center;
 }
-
 .list{
-    
+    list-style: none;
+    margin-left: 40px;
 }
 .box{
     width: 50%;
@@ -24,11 +24,11 @@
     background-color: white;
     outline: 2px solid rgb(68, 45, 68) ;
 }
-/* ----------------------------Quiz Page----------------------------- */
+/* ---==========--Quiz========= */
 
 .container{
     width: 50%;
-    border: 2px solid rgb(153, 153, 215) ;
+    border: 2px solid rgb(34, 34, 44) ;
     border-radius: 10px;
     padding: 30px;
 }
